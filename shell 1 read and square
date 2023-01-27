@@ -1,0 +1,4 @@
+echo "enter the number"
+read a
+sq=$(($a*$a))
+echo $sq
